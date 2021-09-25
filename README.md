@@ -1,3 +1,4 @@
+![](https://github.com/0xquark/0xquark/blob/main/LinkedinBannerFinal2.png)
 <h1 align="center">Hi 👋, I'm Karanjot Singh</h1>
 <h3 align="center">A Sophomore making his way into CyberSecurity</h3>
 
