@@ -4,9 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xquark" alt="0xquark" /></a> </p>
 
-- 🌱 I’m currently learning **Payload Development**
+- 🌱 I’m currently learning about **Payload Development**
 - ❄︎  I love to contribute to **Open Source Projects**
-- 
 
 - 📫 How to reach me **thestrangequarks@pm.me**
 
