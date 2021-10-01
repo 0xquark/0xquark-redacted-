@@ -1,10 +1,12 @@
 ![](https://github.com/0xquark/0xquark/blob/main/LinkedinBannerFinal2.png)
 <h1 align="center">Hi 👋, I'm Karanjot Singh</h1>
-<h3 align="center">A 17 Year Old making his way into CyberSecurity</h3>
+<h3 align="center">I am a Security Researcher , I like to break into different things </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xquark" alt="0xquark" /></a> </p>
 
-- 🌱 I’m currently learning **Different Frameworks**
+- 🌱 I’m currently learning **Payload Development**
+- ❄︎  I love to contribute to **Open Source Projects**
+- 
 
 - 📫 How to reach me **thestrangequarks@pm.me**
 
