@@ -1,4 +1,4 @@
-![](https://github.com/0xquark/0xquark/blob/main/LinkedinBannerFinal2.png)
+![](https://github.com/0xquark/0xquark/blob/main/README.gif)
 <h1 align="center">Hi 👋, I'm Karanjot Singh</h1>
 <h3 align="center">I am a Security Researcher , I like to break into different things </h3>
 
