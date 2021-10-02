@@ -1,5 +1,5 @@
 ![](https://github.com/0xquark/0xquark/blob/main/README.gif)
-<h1 align="center">Hi 👋, I'm Karanjot Singh</h1>
+<h1 align="center">Hi , I'm Karanjot Singh</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I+am+a+Pentester+and+Security+Researcher;An+Open+Source+Enthusiastic;Love+to+build+and+break+things)](https://git.io/typing-svg)
 
