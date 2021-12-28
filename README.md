@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about **Payload Development**
 - ❄︎  I love to contribute to **Open Source Projects**
 
-- 📫 How to reach me **drquark:kde.org**
+- 📫 Reach me at **drquark@duck.com** or **drquark:kde.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,3 +37,4 @@
 BTC - 3F44EvzDdZhRAy6ZsRHAiAYZNQnZxPdc6Y
 ETH - 0x45Aee28C600D271b7B0903d11D517fFa77cbCcB3
 BAT - 0x0c1980f7Bcad41F83Ae52be6D8AaB3a25feA2B00
+
