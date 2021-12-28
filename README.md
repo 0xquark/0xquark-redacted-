@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about **Payload Development**
 - ❄︎  I love to contribute to **Open Source Projects**
 
-- 📫 How to reach me **thestrangequarks@pm.me**
+- 📫 How to reach me **drquark:kde.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
