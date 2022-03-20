@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I+am+a+Pentester+and+Security+Researcher;An+Open+Source+Enthusiastic;Love+to+build+and+break+things)](https://git.io/typing-svg)
 
 
-- 🌱 I’m currently learning about **Payload Development**
+- 🌱 I’m currently working on **SuS Implementations@KDE**
 - ❄︎  I love to contribute to **Open Source Projects**
 
 - 📫 Reach me at **drquark@duck.com** or **drquark:kde.org**
